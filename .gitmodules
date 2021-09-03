@@ -1,0 +1,9 @@
+[submodule "protobuf-idl"]
+	path = protobuf-idl
+	url = git@github.com:lcalmsky/protobuf-idl.git
+[submodule "simple-grpc-server"]
+	path = simple-grpc-server
+	url = git@github.com:lcalmsky/simple-grpc-server.git
+[submodule "simple-grpc-client"]
+	path = simple-grpc-client
+	url = git@github.com:lcalmsky/simple-grpc-client.git
